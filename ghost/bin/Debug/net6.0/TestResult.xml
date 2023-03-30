@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" name="ghost.dll" fullname="C:/Users/User/Pictures/проекторий/ghost/bin/Debug/net6.0/ghost.dll" testcasecount="5" result="Passed" start-time="2023-03-30T12:36:21.8374728Z" end-time="2023-03-30T12:36:21.8782435Z" duration="0.040733" total="5" passed="5" failed="0" inconclusive="0" skipped="0" warnings="0" asserts="25" random-seed="82668670">
+  <command-line><![CDATA[C:\Users\User\Pictures\проекторий\ghost\bin\Debug\net6.0\ghost.dll]]></command-line>
+  <filter />
+  <test-suite type="Assembly" id="1006" name="ghost.dll" fullname="C:/Users/User/Pictures/проекторий/ghost/bin/Debug/net6.0/ghost.dll" runstate="Runnable" testcasecount="5" result="Passed" start-time="2023-03-30T12:36:21.8374728Z" end-time="2023-03-30T12:36:21.8782435Z" duration="0.040733" total="5" passed="5" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="25">
+    <environment framework-version="3.13.3.0" clr-version="6.0.15" os-version="Microsoft Windows 10.0.22621" platform="Win32NT" cwd="C:\Users\User\Pictures\проекторий\ghost\bin\Debug\net6.0" machine-name="DESKTOP-1FIK0NG" user="User" user-domain="DESKTOP-1FIK0NG" culture="ru-RU" uiculture="ru-RU" os-architecture="x64" />
+    <settings>
+      <setting name="WorkDirectory" value="C:\Users\User\Pictures\проекторий\ghost\bin\Debug\net6.0" />
+      <setting name="NumberOfTestWorkers" value="8" />
+    </settings>
+    <properties>
+      <property name="_PID" value="51196" />
+      <property name="_APPDOMAIN" value="ghost" />
+    </properties>
+    <test-suite type="TestSuite" id="1007" name="hashes" fullname="hashes" runstate="Runnable" testcasecount="5" result="Passed" start-time="2023-03-30T12:36:21.8445457Z" end-time="2023-03-30T12:36:21.8782326Z" duration="0.033686" total="5" passed="5" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="25">
+      <test-suite type="TestFixture" id="1000" name="GhostsTest" fullname="hashes.GhostsTest" classname="hashes.GhostsTest" runstate="Runnable" testcasecount="5" result="Passed" start-time="2023-03-30T12:36:21.8471429Z" end-time="2023-03-30T12:36:21.8779078Z" duration="0.030765" total="5" passed="5" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="25">
+        <test-case id="1003" name="GhostCatBreaksHashSet" fullname="hashes.GhostsTest.GhostCatBreaksHashSet" methodname="GhostCatBreaksHashSet" classname="hashes.GhostsTest" runstate="Runnable" seed="228678552" result="Passed" start-time="2023-03-30T12:36:21.8490186Z" end-time="2023-03-30T12:36:21.8702861Z" duration="0.021372" asserts="5" />
+        <test-case id="1004" name="GhostDocumentBreaksHashSet" fullname="hashes.GhostsTest.GhostDocumentBreaksHashSet" methodname="GhostDocumentBreaksHashSet" classname="hashes.GhostsTest" runstate="Runnable" seed="411433641" result="Passed" start-time="2023-03-30T12:36:21.8729335Z" end-time="2023-03-30T12:36:21.8741029Z" duration="0.001169" asserts="5" />
+        <test-case id="1005" name="GhostRobotBreaksHashSet" fullname="hashes.GhostsTest.GhostRobotBreaksHashSet" methodname="GhostRobotBreaksHashSet" classname="hashes.GhostsTest" runstate="Runnable" seed="1753045565" result="Passed" start-time="2023-03-30T12:36:21.8741669Z" end-time="2023-03-30T12:36:21.8751926Z" duration="0.001026" asserts="5" />
+        <test-case id="1002" name="GhostSegmentBreaksHashSet" fullname="hashes.GhostsTest.GhostSegmentBreaksHashSet" methodname="GhostSegmentBreaksHashSet" classname="hashes.GhostsTest" runstate="Runnable" seed="1954340143" result="Passed" start-time="2023-03-30T12:36:21.8752296Z" end-time="2023-03-30T12:36:21.8764409Z" duration="0.001211" asserts="5" />
+        <test-case id="1001" name="GhostVectorBreaksHashSet" fullname="hashes.GhostsTest.GhostVectorBreaksHashSet" methodname="GhostVectorBreaksHashSet" classname="hashes.GhostsTest" runstate="Runnable" seed="1237252531" result="Passed" start-time="2023-03-30T12:36:21.8764685Z" end-time="2023-03-30T12:36:21.8768900Z" duration="0.000422" asserts="5" />
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>
